@@ -28,3 +28,4 @@ Comandos
 **git diff rama1..rama2**
 
 * Para combinar una rapa con la otra
+**git pull origin nombre_de_la_rama**
